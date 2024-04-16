@@ -1,0 +1,15 @@
+Czym jest RimTranslate?
+
+RimTranslate jest kolejnym prostym programem który tym razem ułatwi ci tłumaczenie wszelkich plików XML na język polski!
+
+Jak pracować z programem?
+
+1. Wystarczy uruchomić program, wskazać mu folder który chcemy przetłumaczyć (Najlepiej wyodrębniony defs przez RimTrans)
+2. Poczekać aż program przetłumaczy wszystkie pliki (Wskazuje w konsoli co aktualnie tłumaczy)
+
+Program tworzy kopie tłumaczonego pliku z tym że przetłumaczony plik posiada końcówkę _PL 
+
+Przykład:
+
+Oryginał: Testowy plik.xml
+Przetłumaczona kopia: Testowy plik_PL.xml
